@@ -1,6 +1,5 @@
 (function($) { "use strict";
               
- 	//Switch light/dark
 	
 	$("#switch").on('click', function () {
 		if ($("body").hasClass("dark")) {
